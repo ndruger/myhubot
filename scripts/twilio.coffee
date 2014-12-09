@@ -18,4 +18,4 @@ call = (text) ->
 
 module.exports = (robot) ->
   robot.respond /call (.*)/i, (msg) ->
-  call(msg.match[1])
+    call(msg.match[1])
