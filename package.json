@@ -21,6 +21,7 @@
     "hubot-shipit": "^0.1.1",
     "hubot-youtube": "^0.1.2",
     "lodash": "^2.4.1",
+    "readline-history": "^1.2.0",
     "twilio": "^1.10.0"
   },
   "engines": {
